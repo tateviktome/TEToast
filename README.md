@@ -8,7 +8,7 @@ TEToast is a fully customizable ToastView written in swift with very simple inte
 
 ## Example
 ```swift
-let toast = TEToastView(title: "Hello November", comment: "My soulmate season...")
+let toast = TEToastView(title: "Hello November", comment: "My favorite season...")
 toast.present()
 ```
 > Makes a ToastView in the center of screen with title and comment...
