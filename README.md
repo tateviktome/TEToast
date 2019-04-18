@@ -4,7 +4,7 @@ TEToast is a fully customizable ToastView written in swift with very simple inte
 ## Features
 1. In general, supports title, comment and an image
 2. Ability to choose position of the view` center, top or bottom
-3. Ability to apply appearance (cornerRadius, fonts, colors and etc.)
+3. (V1) Ability to apply appearance (cornerRadius, fonts, colors and etc.)
 
 ## Example
 ```swift
